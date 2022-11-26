@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="File1.fs" />
+    <Compile Include="Minefield.fs" />
+    <Compile Include="Cell.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
